@@ -8,8 +8,7 @@ if answer_yes == 'yes':
      print ("Okay, Lets Play!")
 else :
     if answer_yes == 'no':
-        print('please close the program')
-        quit
+        quit()
 score = 0
 if answer_yes == 'yes':
   print("lets play")
